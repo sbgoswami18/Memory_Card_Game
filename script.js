@@ -7,43 +7,23 @@ let playerLives = 10;
 playerLivesCount.textContent = playerLives;
 
 // Generate the object
-
-// const getData = () => [
-//   { imgSrc: "./images/beatles.jpeg", id: 1, name: "beatles" },
-//   { imgSrc: "./images/blink182.jpeg", id: 2, name: "blink 182" },
-//   { imgSrc: "./images/fkatwigs.jpeg", id: 3, name: "fka twigs" },
-//   { imgSrc: "./images/fleetwood.jpeg", id: 4, name: "fleetwood" },
-//   { imgSrc: "./images/joy-division.jpeg", id: 5, name: "joy division" },
-//   { imgSrc: "./images/ledzep.jpeg", id: 6, name: "led zeppelin" },
-//   { imgSrc: "./images/metallica.jpeg", id: 7, name: "metallica" },
-//   { imgSrc: "./images/pinkfloyd.jpeg", id: 8, name: "pink floyd" },
-//   { imgSrc: "./images/beatles.jpeg", id: 9, name: "beatles" },
-//   { imgSrc: "./images/blink182.jpeg", id: 10, name: "blink 182" },
-//   { imgSrc: "./images/fkatwigs.jpeg", id: 11, name: "fka twigs" },
-//   { imgSrc: "./images/fleetwood.jpeg", id: 12, name: "fleetwood" },
-//   { imgSrc: "./images/joy-division.jpeg", id: 13, name: "joy division" },
-//   { imgSrc: "./images/ledzep.jpeg", id: 14, name: "led zeppelin" },
-//   { imgSrc: "./images/metallica.jpeg", id: 15, name: "metallica" },
-//   { imgSrc: "./images/pinkfloyd.jpeg", id: 16, name: "pink floyd" },
-// ];
-
 const getData = () => [
-  { imgSrc: "./img/elephant.jpg", id: 1, name: "elephant" },
-  { imgSrc: "./img/zebra.jpg", id: 2, name: "zebra" },
-  { imgSrc: "./img/tiger.webp", id: 3, name: "tiger" },
-  { imgSrc: "./img/bear.jpg", id: 4, name: "bear" },
-  { imgSrc: "./img/horse.jpg", id: 5, name: "horse" },
-  { imgSrc: "./img/rabbit.jpg", id: 6, name: "rabbit" },
-  { imgSrc: "./img/lion.jpg", id: 7, name: "lion" },
-  { imgSrc: "./img/panda.jpg", id: 8, name: "panda" },
-  { imgSrc: "./img/elephant.jpg", id: 1, name: "elephant" },
-  { imgSrc: "./img/zebra.jpg", id: 10, name: "zebra" },
-  { imgSrc: "./img/tiger.webp", id: 11, name: "tiger" },
-  { imgSrc: "./img/bear.jpg", id: 12, name: "bear" },
-  { imgSrc: "./img/horse.jpg", id: 13, name: "horse" },
-  { imgSrc: "./img/rabbit.jpg", id: 14, name: "rabbit" },
-  { imgSrc: "./img/lion.jpg", id: 15, name: "lion" },
-  { imgSrc: "./img/panda.jpg", id: 16, name: "panda" },
+  { imgSrc: "./img/elephant.jpg", name: "elephant" },
+  { imgSrc: "./img/zebra.jpg", name: "zebra" },
+  { imgSrc: "./img/tiger.webp", name: "tiger" },
+  { imgSrc: "./img/bear.jpg", name: "bear" },
+  { imgSrc: "./img/horse.jpg", name: "horse" },
+  { imgSrc: "./img/rabbit.jpg", name: "rabbit" },
+  { imgSrc: "./img/lion.jpg", name: "lion" },
+  { imgSrc: "./img/panda.jpg", name: "panda" },
+  { imgSrc: "./img/elephant.jpg", name: "elephant" },
+  { imgSrc: "./img/zebra.jpg", name: "zebra" },
+  { imgSrc: "./img/tiger.webp", name: "tiger" },
+  { imgSrc: "./img/bear.jpg", name: "bear" },
+  { imgSrc: "./img/horse.jpg", name: "horse" },
+  { imgSrc: "./img/rabbit.jpg", name: "rabbit" },
+  { imgSrc: "./img/lion.jpg", name: "lion" },
+  { imgSrc: "./img/panda.jpg", name: "panda" },
 ];
 
 // Randomize the object
